@@ -1,0 +1,4 @@
+#!/user/bin/bash
+rm -f *.exercise.out
+unset IFS
+
